@@ -22,6 +22,7 @@
 </p>
 
 <br />
+
 <!-- Badges section -->
 ### 👨‍💻 Languages, 🧰 Frameworks & Libraries:-
 <p>
@@ -46,6 +47,7 @@
 </p>
 
 <br />
+
 <!-- Stats section -->
 <details open>
   <summary>:zap: GitHub Stats</summary>
