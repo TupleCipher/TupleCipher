@@ -9,8 +9,11 @@
 <!-- Ongoing projects section -->
 ### Current and Ongoing Projects:-
 
+
   - TensorFlow Elf chatbot, part of an RAF Santa Tracker for the RAF Esports association.
   -	Hikari-Lightbulb Discord bot with social media integration for the RAF Gamers Network.
+
+<br />
 
 <!-- Social icons section -->
 <p align="center">
