@@ -7,10 +7,10 @@
 <img align="left" alt="Current Projects" width="58px" src="./Icons/icons8-coding-58.png" style="padding-right:10px;" />
 
 <!-- Ongoing projects section -->
-### Current Projects:-
+### Current and Ongoing Projects:-
 
--	TensorFlow Elf chatbot, part of an RAF Santa Tracker for the RAF Esports association.
--	Hikari-Lightbulb Discord bot with social media integration for the RAF Gamers Network.
+  - TensorFlow Elf chatbot, part of an RAF Santa Tracker for the RAF Esports association.
+  -	Hikari-Lightbulb Discord bot with social media integration for the RAF Gamers Network.
 
 <!-- Social icons section -->
 <p align="center">
@@ -23,6 +23,7 @@
 
 <br />
 
+---
 <!-- Badges section -->
 ### 👨‍💻 Languages, 🧰 Frameworks & Libraries:-
 <p>
@@ -32,7 +33,6 @@
   <img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 </p>
 
----
 ### 💻 Software & 🛠️ Tools:-
 <p>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -47,6 +47,8 @@
 </p>
 
 <br />
+
+---
 
 <!-- Stats section -->
 <details open>
