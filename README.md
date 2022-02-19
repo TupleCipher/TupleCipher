@@ -43,7 +43,7 @@
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VirtualBox" width="26px" src=https://img.icons8.com/fluency/48/000000/virtualbox--v2.png style="padding-right:10px;" />
-<img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
+<img align="left" alt="postman" width="48px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />
 <img align="left" alt="bitwarden" width="26px" src="https://img.icons8.com/fluency/48/000000/bitwarden--v1.png" style="padding-right:10px;" />
 
 <br />
