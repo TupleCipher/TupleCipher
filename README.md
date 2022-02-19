@@ -9,8 +9,8 @@
 <!-- Ongoing projects section -->
 ### Current Projects:-
 
-	\>  TensorFlow Elf chatbot, part of an RAF Santa Tracker for the RAF Esports association.
-	\>	Hikari-Lightbulb Discord bot with social media integration for the RAF Gamers Network.
+-	TensorFlow Elf chatbot, part of an RAF Santa Tracker for the RAF Esports association.
+-	Hikari-Lightbulb Discord bot with social media integration for the RAF Gamers Network.
 
 <!-- Social icons section -->
 <p align="center">
@@ -21,27 +21,39 @@
   <a href="https://www.linkedin.com/in/stephen-jobling-769480b0/" alt="Linked In"><img width="48px" src="./Icons/icons8-linkedin-48.png"/></a>
 </p>
 
+<br />
 <!-- Badges section -->
 ### 👨‍💻 Languages, 🧰 Frameworks & Libraries:-
+<p>
+  <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+</p>
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-
-
+---
 ### 💻 Software & 🛠️ Tools:-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sublime Text" width="26px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VirtualBox" width="26px" src=https://img.icons8.com/fluency/48/000000/virtualbox--v2.png style="padding-right:10px;" />
-<img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
-<img align="left" alt="bitwarden" width="26px" src="https://img.icons8.com/fluency/48/000000/bitwarden--v1.png" style="padding-right:10px;" />
+<p>
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Sublime Text" width="26px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png" style="padding-right:10px;" />
+  <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="VirtualBox" width="26px" src=https://img.icons8.com/fluency/48/000000/virtualbox--v2.png style="padding-right:10px;" />
+  <img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="bitwarden" width="26px" src="https://img.icons8.com/fluency/48/000000/bitwarden--v1.png" style="padding-right:10px;" />
+</p>
 
+<br />
+<!-- Stats section -->
+<details open>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="TupleCipher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TupleCipher&show_icons=true&hide_border=false&title_color=fff&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
 
+<!-- Copyright mentions section -->
+---
 <a target="_blank" href="https://icons8.com/icon/oSNGZC0FkU2t/coding">Coding</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <!--
 **TupleCipher/TupleCipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
