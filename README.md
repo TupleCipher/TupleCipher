@@ -4,7 +4,7 @@
 
 <!-- Badges section -->
 
-<img align="left" alt="Current Projects" width="58px" src="./Icons/icons8-coding-58.png" style="padding-right:10px;" />
+<img align="left" alt="Current Projects" width="32px" src="./Icons/icons8-coding-58.png" style="padding-right:10px;" />
 
 <!-- Ongoing projects section -->
 ### Current and Ongoing Projects:-
