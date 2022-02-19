@@ -27,24 +27,24 @@
 <!-- Badges section -->
 ### 👨‍💻 Languages, 🧰 Frameworks & Libraries:-
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="TensorFlow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+<img align="left" alt="bash" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 
 <br />
 
 ### 💻 Software & 🛠️ Tools:-
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sublime Text" width="26px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VirtualBox" width="26px" src=https://img.icons8.com/fluency/48/000000/virtualbox--v2.png style="padding-right:10px;" />
-<img align="left" alt="postman" width="48px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />
-<img align="left" alt="bitwarden" width="26px" src="https://img.icons8.com/fluency/48/000000/bitwarden--v1.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sublime Text" width="32px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="debian" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VirtualBox" width="32px" src=https://img.icons8.com/fluency/48/000000/virtualbox--v2.png style="padding-right:10px;" />
+<img align="left" alt="postman" width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />
+<img align="left" alt="bitwarden" width="32px" src="https://img.icons8.com/fluency/48/000000/bitwarden--v1.png" style="padding-right:10px;" />
 
 <br />
 
