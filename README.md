@@ -12,6 +12,7 @@
 <br />
 
   - TensorFlow Elf chatbot, part of an RAF Santa Tracker for the RAF Esports association.
+  - TensoFlow based document search tool
   -	Hikari-Lightbulb Discord bot with social media integration for the RAF Gamers Network.
 
 <br />
